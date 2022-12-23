@@ -2,7 +2,7 @@
 - 🎓 I am a Mechatronics Engineering Student at Queen's University
 - 👀 I’m interested in Software Development & Engineering
 - 🔭 I'm currently working on a [Fitness App](https://github.com/Jumner/FitnessApp)
-- 🌱 I’m currently learning React, Rust & Kotlin
+- 🌱 I’m currently learning React
 - 📫 How to reach me: [Email](mailto:hariknair139@gmail.com)
 
 <!---
