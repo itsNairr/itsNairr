@@ -33,18 +33,3 @@ Conversational video editor built with Next.js, TypeScript, Remotion, and Gemini
 ### 🛣️ Lane Segmentation Computer Vision Model
 
 Lane segmentation model for the GM-SAE AutoDrive Challenge II, achieving **83% mAP50** with **<25ms** inference latency.
-
-## 🎓 Education
-
-BASc in Mechatronics & Robotics Engineering at Queen's University, expected April 2027.
-
-## 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsNairr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hari's GitHub statistics" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsNairr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Hari's most used languages" height="170" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsNairr&theme=tokyo-night&hide_border=true&area=true" alt="Hari's GitHub activity graph" />
-</p>
