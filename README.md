@@ -33,3 +33,7 @@ Conversational video editor built with Next.js, TypeScript, Remotion, and Gemini
 ### 🛣️ Lane Segmentation Computer Vision Model
 
 Lane segmentation model for the GM-SAE AutoDrive Challenge II, achieving **83% mAP50** with **<25ms** inference latency.
+
+### 🖥️ [JevTerm](https://github.com/itsNairr/JevTerm)
+
+Windows 10/11 natural-language-to-PowerShell terminal REPL powered by TypeSafe Jev decision models with deterministic safety checks.
