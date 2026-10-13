@@ -6,7 +6,7 @@ Mechatronics & Robotics Engineering student at **Queen's University**, curious a
   <a href="https://linkedin.com/in/harinairr">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:hariknair139@gmail.com">
+  <a href="mailto:hariknaair139@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.credly.com/badges/f9dd23d3-e3c7-4aeb-aaf1-3100b8711885/public_url">
@@ -28,11 +28,15 @@ AI-powered pet feeder using computer vision, YOLO-based cat recognition, Next.js
 
 ### 🎬 [Natural Language AI Video Editor](https://github.com/itsNairr/Remotion-AI-Video-Editor)
 
-Conversational video editor built with Next.js, TypeScript, Remotion, and Gemini that supports granular timeline editing through natural-language prompts, multi-track editing, subtitles, overlays, and camera punch-ins.
+Conversational video editor built with Next.js, TypeScript, Remotion, and Gemini that supports granular timeline editing through natural-language prompts, multi-track editing, subtitles, overlays, and AI-assisted finishing.
 
 ### 🛣️ Lane Segmentation Computer Vision Model
 
 Lane segmentation model for the GM-SAE AutoDrive Challenge II, achieving **83% mAP50** with **<25ms** inference latency.
+
+### 🚚 [Fleet Mission Control](https://github.com/itsNairr/FleetMissionControl)
+
+Real-time connected vehicle telemetry and remote operations platform built with Go, React, TypeScript, and Three.js for EV fleet monitoring, command dispatch, and digital-twin visualization.
 
 ### 🖥️ [JevTerm](https://github.com/itsNairr/JevTerm)
 
